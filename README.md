@@ -31,7 +31,7 @@
 ---
 
 <!-- Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=tech-mw&theme=onedark)](https://github.com/tech-mw/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tech-mw&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
