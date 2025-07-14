@@ -9,9 +9,9 @@
 
 
 ## 💻 Current Skill
-[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,docker,linux,vim,aws,pycharm,vscode,github,git&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,docker,linux,vim,aws,pycharm,vscode,github,git&perline=15)](https://skillicons.dev)
 ## 🕑 Previously Used Skill
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,jquery,javascript,ts,react,redux,vue,nodejs,express,fastapi,php,laravel,ruby,rails,postgres,redis,ubuntu,nginx,heroku,jenkins,sentry,postman,wordpress,bitbucket,npm,yarn,phpstorm,eclipse,atom,notion,md,ps,ai,xd,figma,anaconda&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,jquery,javascript,ts,react,redux,vue,nodejs,express,fastapi,php,laravel,ruby,rails,postgres,redis,ubuntu,nginx,heroku,jenkins,sentry,postman,wordpress,bitbucket,npm,yarn,phpstorm,eclipse,atom,notion,md,ps,ai,xd,figma,anaconda&perline=15)](https://skillicons.dev)
 
 ---
 
