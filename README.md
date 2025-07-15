@@ -46,7 +46,23 @@
 ### examples01
 > In Development Example 01, we will introduce developments that respond to the COVID-19 pandemic.
 > The image below shows the system concept, functions, and architecture.
+
+#### skill
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,linux,vim,aws,vscode,github,git&perline=15)](https://skillicons.dev)
 ![examples01_head](./images/development_examples01_1.svg)
 ![examples01_overview](./images/development_examples01_2.svg)
 ![examples01_features](./images/development_examples01_3.svg)
 ![examples01_system_configuration](./images/development_examples01_4.svg)
+
+### examples02
+> In Development Example 02, we present a system designed to visualize and manage waste collection point data and optimize collection routes.
+> The image below shows the system concept, functions, and architecture.
+
+#### skill
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,linux,vim,aws,vscode,github,git&perline=15)](https://skillicons.dev)
+- skill-aiconsにアイコンがなかった技術はテキストで下記に記載
+  - [reacr-native](https://reactnative.dev/)
+![examples01_head](./images/development_examples02_1.svg)
+![examples01_overview](./images/development_examples02_2.svg)
+![examples01_features](./images/development_examples02_3.svg)
+![examples01_system_configuration](./images/development_examples02_4.svg)
