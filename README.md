@@ -70,4 +70,5 @@
 
 ## 📚 Zenn Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dockerコンテナとホスト間のファイル共有・バックアップガイド](https://zenn.dev/tech_mw/articles/f20460bf1882ae)
 <!-- BLOG-POST-LIST:END -->
