@@ -69,4 +69,5 @@
 ![examples01_system_configuration](./images/development_examples02_4.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockerコンテナとホスト間のファイル共有・バックアップガイド](https://zenn.dev/tech_mw/articles/f20460bf1882ae)
 <!-- BLOG-POST-LIST:END -->
