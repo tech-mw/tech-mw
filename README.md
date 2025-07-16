@@ -67,3 +67,6 @@
 ![examples01_overview](./images/development_examples02_2.svg)
 ![examples01_features](./images/development_examples02_3.svg)
 ![examples01_system_configuration](./images/development_examples02_4.svg)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
