@@ -13,7 +13,7 @@
 ## 🕑 Previously Used Skill
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,jquery,javascript,ts,react,redux,vue,nodejs,express,fastapi,php,laravel,ruby,rails,postgres,redis,ubuntu,nginx,heroku,jenkins,sentry,postman,wordpress,bitbucket,npm,yarn,phpstorm,eclipse,atom,notion,md,ps,ai,xd,figma,anaconda&perline=15)](https://skillicons.dev)  
 - skill-aiconsにアイコンがなかった技術はテキストで下記に記載
-  - [reacr-native](https://reactnative.dev/)
+  - [react-native](https://reactnative.dev/)
 
 ## 📚 Currently Learning
 - skill-aiconsにアイコンがなかった技術はテキストで下記に記載
