@@ -70,7 +70,8 @@
 
 ## 📚 Zenn Posts
 <!-- BLOG-POST-LIST:START -->
-- [HEAD分離を意図的に再現して検証：push→分岐→マージ迄の流れ](https://zenn.dev/tech_mw/articles/58623069e633b2)
+- [detached HEADを意図的に再現して検証：fast-forward](https://zenn.dev/tech_mw/articles/32b7f269f99eb6)
+- [detached HEADを意図的に再現して検証：non-fast-forward](https://zenn.dev/tech_mw/articles/58623069e633b2)
 - [Dockerコンテナとホスト間のファイル共有・バックアップガイド](https://zenn.dev/tech_mw/articles/f20460bf1882ae)
 <!-- BLOG-POST-LIST:END -->
 
