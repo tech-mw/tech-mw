@@ -72,3 +72,16 @@
 <!-- BLOG-POST-LIST:START -->
 - [Dockerコンテナとホスト間のファイル共有・バックアップガイド](https://zenn.dev/tech_mw/articles/f20460bf1882ae)
 <!-- BLOG-POST-LIST:END -->
+
+## 🧾 Zenn Logs
+- [Docker Compose × MySQL × Sequel Ace接続ガイド](https://zenn.dev/tech_mw/scraps/980d80c033d0c0)
+- [Docker（手動 + compose）でWordPressとMySQL環境構築手順](https://zenn.dev/tech_mw/scraps/dd73ac4159c154)
+- [【docker-compose × express × PostgreSQL】データ永続化確認、ボリュームマウントとバインドマウントなど](https://zenn.dev/tech_mw/scraps/65e66307eed7f8)
+- [FastAPI例外ハンドラ：レスポンスカスタマイズ](https://zenn.dev/tech_mw/scraps/bd69effdce24ae)
+- [FastAPIのBody(embed=True)でハマった話：/docsが利口すぎて気づきにくい罠](https://zenn.dev/tech_mw/scraps/aa8e017fac75c3)
+- [【Mac】PyCharmで Cmd+↑+F を使うとFinder検索が開いてしまう問題の対処法](https://zenn.dev/tech_mw/scraps/2ff3528dd6ba3e)
+- [Pythonのダックタイピングをスプーンで説明してみた](https://zenn.dev/tech_mw/scraps/9a93b308e607d9)
+- [PyCharmデバッグ機能の基本操作まとめ](https://zenn.dev/tech_mw/scraps/8a7173c90de3a9)
+- [tcl/tk/wishって何？git guiの裏側にある“知られざる世界”を覗いてみた](https://zenn.dev/tech_mw/scraps/0d5cfc5b63c8ab)
+- [Git初心者がハマる！git diffで差分が出ない理由と解決法](https://zenn.dev/tech_mw/scraps/05fd3bc7219100)
+- [SourceTreeがed25519のSSH鍵を認識しなかった話](https://zenn.dev/tech_mw/scraps/6c7abac2abe5d5)
