@@ -76,6 +76,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧾 Zenn Logs
+- [PyCharmで複数プロジェクトを1つのウィンドウで開けなくなった話（解決）](https://zenn.dev/tech_mw/scraps/ef36d1a6147208)
 - [MySQL × Docker × 日本語文字列が空白になる問題と対策（UTF-8・locale編）](https://zenn.dev/tech_mw/scraps/6c852e8a92910a)
 - [Docker Compose × MySQL × Sequel Ace接続ガイド](https://zenn.dev/tech_mw/scraps/980d80c033d0c0)
 - [Docker（手動 + compose）でWordPressとMySQL環境構築手順](https://zenn.dev/tech_mw/scraps/dd73ac4159c154)
