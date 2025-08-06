@@ -76,6 +76,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧾 Zenn Logs
+
+- [なぜFBVはredirect、CBVはreverse_lazyなのか？Djangoの評価タイミングを理解する](https://zenn.dev/tech_mw/scraps/d6c5a13e1b56dd)
 - [PlantUML + PyCharm でER図作成｜draw.ioからの乗り換えメモ](https://zenn.dev/tech_mw/scraps/3d23260e0cd5dc)
 - [PyCharmで複数プロジェクトを1つのウィンドウで開けなくなった話（解決）](https://zenn.dev/tech_mw/scraps/ef36d1a6147208)
 - [MySQL × Docker × 日本語文字列が空白になる問題と対策（UTF-8・locale編）](https://zenn.dev/tech_mw/scraps/6c852e8a92910a)
