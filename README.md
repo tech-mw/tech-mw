@@ -76,6 +76,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧾 Zenn Logs
+- [【Python試験対策】n進数変換の超シンプル基数変換チートシート](https://zenn.dev/tech_mw/scraps/b70956b196fb58)
 - [Djangoでページネーションを簡単に実装する方法（ListView + Bootstrap対応）](https://zenn.dev/tech_mw/scraps/8beca5d8db8af3)
 - [なぜFBVはredirect、CBVはreverse_lazyなのか？Djangoの評価タイミングを理解する](https://zenn.dev/tech_mw/scraps/d6c5a13e1b56dd)
 - [PlantUML + PyCharm でER図作成｜draw.ioからの乗り換えメモ](https://zenn.dev/tech_mw/scraps/3d23260e0cd5dc)
