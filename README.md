@@ -4,9 +4,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> tech-mwの紹介
 - [経歴] 声優 → EC → Web制作 → Webエンジニア
-- [得意分野] 主にWebアプリケーション開発
+- [得意分野] 主にWebアプリケーション開発。他lot機器連携アプリ（3Dカメラや検温デバイスなど）、androidアプリ（ReactNativeにて）
 - [過去の参画PJ] 3Dカメラ利用 混雑状況見える化システム、電子書籍配信アプリ
-- [個人開発] 不動産マッチングアプリ「Shavilla」
+- [個人開発] 不動産マッチングアプリ「Shavilla」（Ruby/Railsにて）
 
 ---
 
