@@ -72,6 +72,7 @@
 
 ## 📚 Zenn 投稿記事
 <!-- BLOG-POST-LIST:START -->
+- [Django CBV × SuccessMessageMixin でメッセージ最小実装（Create / Delete 対応）](https://zenn.dev/tech_mw/articles/8493482e8a296e)
 - [detached HEADを意図的に再現して検証：fast-forward](https://zenn.dev/tech_mw/articles/32b7f269f99eb6)
 - [detached HEADを意図的に再現して検証：non-fast-forward](https://zenn.dev/tech_mw/articles/58623069e633b2)
 - [Dockerコンテナとホスト間のファイル共有・バックアップガイド](https://zenn.dev/tech_mw/articles/f20460bf1882ae)
