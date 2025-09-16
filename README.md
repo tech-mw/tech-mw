@@ -79,6 +79,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧾 Zenn 投稿スクラップ
+- [PyCharm CEでDjangoデバッグ時にisAliveエラーが出る原因と解決法【Python 3.13対応】](https://zenn.dev/tech_mw/scraps/ef75be3b446e03)
 - [【Python試験対策】ビット演算子まとめ（&、|、^、~、<<、>>）](https://zenn.dev/tech_mw/scraps/4ecb9f97f7e24c)
 - [【Python試験対策】n進数変換の超シンプル基数変換チートシート](https://zenn.dev/tech_mw/scraps/b70956b196fb58)
 - [Djangoでページネーションを簡単に実装する方法（ListView + Bootstrap対応）](https://zenn.dev/tech_mw/scraps/8beca5d8db8af3)
