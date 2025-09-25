@@ -23,6 +23,7 @@
   - [cursor](https://cursor.com/ja)
   - [claude-code](https://www.anthropic.com/claude-code)
   - etc..
+
 ---
 
 
@@ -100,3 +101,7 @@
 - [tcl/tk/wishって何？git guiの裏側にある“知られざる世界”を覗いてみた](https://zenn.dev/tech_mw/scraps/0d5cfc5b63c8ab)
 - [Git初心者がハマる！git diffで差分が出ない理由と解決法](https://zenn.dev/tech_mw/scraps/05fd3bc7219100)
 - [SourceTreeがed25519のSSH鍵を認識しなかった話](https://zenn.dev/tech_mw/scraps/6c7abac2abe5d5)
+
+## 📝 資格
+- Pythonプログラミング能力認定試験 2級（OpenBadge認定）
+- WACAウェブ解析士協会公認 上級ウェブ解析士
