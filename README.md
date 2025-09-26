@@ -3,10 +3,17 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> tech-mwの紹介
-- [経歴] 声優 → EC → Web制作 → Webエンジニア
-- [開発領域] 主にWebアプリケーション開発。その他、IoT機器連携アプリ（3Dカメラ・検温デバイス等）、Androidアプリ（React Native）
+- [経歴]
+  - 声優 → EC → Web制作 → Webエンジニア
+- [開発領域] 主にWebアプリケーション開発。その他、IoT機器連携アプリ（3Dカメラ・検温デバイス等）、Androidアプリ（React Native）など経験あり
 - [過去の参画PJ] 3Dカメラ利用 混雑状況見える化システム、電子書籍配信アプリ
-- [個人開発] 不動産マッチングアプリ「Shavilla」（Ruby/Railsにて）
+- [個人開発] 不動産マッチングアプリ「Shavilla」（Ruby/Rails）
+- [開発以外スキル]
+  - デザイン／マークアップ：UI設計からフロント実装まで対応  
+  - アクセス解析：Google Analytics等を用いた解析
+  - EC運営：楽天（RMS）、Amazon（セラーセントラル/ASC）、Yahoo!ショッピング（ストアクリエイターPro/SCP）  
+  - イラスト制作：Clip Studio Pro、Illustratorによる制作  
+  - ナレーション：声優経験を活かした音声収録（Webサイト開発と併せた収録対応経験あり）
 
 ---
 
