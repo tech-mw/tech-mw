@@ -26,8 +26,10 @@
 
 ## 📚 現在取り組んでいること
 - skill-aiconsにアイコンがなかった技術はテキストで下記に記載
-  - [cursor](https://cursor.com/ja)
-  - [claude-code](https://www.anthropic.com/claude-code)
+  - cursor
+  - claude-code
+  - electron
+  - llm（無料 × local 可な ollama など）
   - etc..
 
 ---
