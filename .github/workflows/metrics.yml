@@ -1,0 +1,16 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 毎日0時
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: output/metrics.base.svg
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} 
+          base: header, activity, community, repositories, metadata
+
