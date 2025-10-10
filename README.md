@@ -26,9 +26,10 @@
 
 ## 📚 現在取り組んでいること
 - skill-aiconsにアイコンがなかった技術はテキストで下記に記載
-  - [devin](https://devin.ai/)
-  - [claude-code](https://docs.claude.com/ja/docs/agents-and-tools/claude-code/overview)
-  - [cursor](https://cursor.com/ja)
+  - AI駆動
+    - [devin](https://devin.ai/)
+    - [claude-code](https://docs.claude.com/ja/docs/agents-and-tools/claude-code/overview)
+    - [cursor](https://cursor.com/ja)
   - llm（[ollama](https://ollama.com/)/無料 × local など）
   - etc..
 
