@@ -45,7 +45,7 @@
 </p>
 <!-- 3D Contributions -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg?t=1#gh-dark-mode-only"
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg"
        width="700"
        alt="3D Contributions (dark)" />
 </p>
