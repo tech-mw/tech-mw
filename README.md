@@ -43,16 +43,10 @@
   <img alt="Top Languages" height="170px"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-mw&theme=vue-dark&layout=compact" />
 </p>
-
 <!-- 3D Contributions -->
-<p align="center" style="margin-top: 30px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions" />
-  </picture>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only"  width="700" alt="3D Contributions (dark)" />
 </p>
-
 ---
 
 <!-- Trophy -->
