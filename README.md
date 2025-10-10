@@ -37,8 +37,21 @@
 
 ## 🏃‍♀️ 活動履歴
 <!-- GitHub Stats -->
-<img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=tech-mw&theme=vue-dark&show_icons=true" />
-<img alt="Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-mw&theme=vue-dark&layout=compact" />
+<p align="center">
+  <img alt="GitHub Stats" height="170px"
+       src="https://github-readme-stats.vercel.app/api?username=tech-mw&theme=vue-dark&show_icons=true" />
+  <img alt="Top Languages" height="170px"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-mw&theme=vue-dark&layout=compact" />
+</p>
+
+<!-- 3D Contributions -->
+<p align="center" style="margin-top: 30px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="700" alt="3D Contributions" />
+  </picture>
+</p>
 
 ---
 
@@ -113,3 +126,5 @@
 ## 📝 資格
 - Pythonプログラミング能力認定試験 2級（OpenBadge認定）
 - WACAウェブ解析士協会公認 上級ウェブ解析士
+
+
