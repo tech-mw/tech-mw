@@ -100,6 +100,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧾 Zenn 投稿スクラップ
+
+- [zshの履歴に日時を表示する](https://zenn.dev/tech_mw/scraps/325184db5f9be3)
 - [Docker環境で学ぶ 0.0.0.0 と 127.0.0.1 の違いと確認方法](https://zenn.dev/tech_mw/scraps/867535328bbb2f)
 - [PyCharm CEでDjangoテストが走らない→「Python」構成 +「Python test」構成 それぞれでの解決方法](https://zenn.dev/tech_mw/scraps/012acdb3fe0355)
 - [PyCharm CEでDjangoデバッグ時にisAliveエラーが出る原因と解決法【Python 3.13対応】](https://zenn.dev/tech_mw/scraps/ef75be3b446e03)
