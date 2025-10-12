@@ -92,6 +92,7 @@
 
 ## 📚 Zenn 投稿記事
 <!-- BLOG-POST-LIST:START -->
+- [GitHubプロフィールに「3D活動状況グラフ」を表示する（Actionsで毎日自動更新）](https://zenn.dev/tech_mw/articles/4df0ab135b2e55)
 - [Django CBV × SuccessMessageMixin でメッセージ最小実装（Create / Delete 対応）](https://zenn.dev/tech_mw/articles/8493482e8a296e)
 - [detached HEADを意図的に再現して検証：fast-forward](https://zenn.dev/tech_mw/articles/32b7f269f99eb6)
 - [detached HEADを意図的に再現して検証：non-fast-forward](https://zenn.dev/tech_mw/articles/58623069e633b2)
