@@ -100,6 +100,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## 🧾 Zenn 投稿スクラップ
+- [【久々に触れると忘れる/備忘録】定義方法と呼び出し方で変化するthis（TypeScript）](https://zenn.dev/tech_mw/scraps/9d2edb4b6703ae)
 - [久々に触れると忘れる、JavaScript特有の「巻き上げ（Hoisting）」備忘録](https://zenn.dev/tech_mw/scraps/7c7c6f09643a28)
 - [zshの履歴に日時を表示する](https://zenn.dev/tech_mw/scraps/325184db5f9be3)
 - [Docker環境で学ぶ 0.0.0.0 と 127.0.0.1 の違いと確認方法](https://zenn.dev/tech_mw/scraps/867535328bbb2f)
