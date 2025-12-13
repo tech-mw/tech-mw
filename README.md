@@ -18,18 +18,19 @@
 
 
 ## 💻 直近よく使う技術
-[![My Skills](https://skillicons.dev/icons?i=python,django,mysql,docker,linux,vim,aws,pycharm,vscode,github,git&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,ts,vue,mysql,docker,linux,vim,aws,vscode,github,git&perline=15)](https://skillicons.dev)
+- skill-aiconsにアイコンがなかった技術はテキストで下記に記載
+  - AI駆動
+    - [devin](https://devin.ai/)
+    - [claude-code](https://docs.claude.com/ja/docs/agents-and-tools/claude-code/overview)
+    - 各種mcp 
 ## 🕑 過去使っていた技術
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,jquery,javascript,ts,react,redux,vue,nodejs,express,php,laravel,ruby,rails,redis,ubuntu,nginx,heroku,jenkins,sentry,postman,wordpress,bitbucket,npm,yarn,phpstorm,eclipse,atom,notion,md,ps,ai,xd,figma,anaconda&perline=15)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,sass,bootstrap,jquery,javascript,ts,react,redux,vue,nodejs,express,laravel,ruby,rails,redis,ubuntu,nginx,heroku,jenkins,sentry,postman,wordpress,bitbucket,npm,yarn,pycharm,phpstorm,eclipse,atom,notion,md,ps,ai,xd,figma,anaconda&perline=15)](https://skillicons.dev)  
 - skill-aiconsにアイコンがなかった技術はテキストで下記に記載
   - [react-native](https://reactnative.dev/)
 
 ## 📚 現在取り組んでいること
 - skill-aiconsにアイコンがなかった技術はテキストで下記に記載
-  - AI駆動
-    - [devin](https://devin.ai/)
-    - [claude-code](https://docs.claude.com/ja/docs/agents-and-tools/claude-code/overview)
-    - [cursor](https://cursor.com/ja)
   - llm（[ollama](https://ollama.com/)/無料 × local など）
   - etc..
 
