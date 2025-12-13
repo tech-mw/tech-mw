@@ -28,9 +28,6 @@
 [![My Skills](https://skillicons.dev/icons?i=python,django,html,css,sass,bootstrap,jquery,javascript,ts,react,redux,vue,nodejs,express,laravel,ruby,rails,redis,ubuntu,nginx,heroku,jenkins,sentry,postman,wordpress,bitbucket,npm,yarn,pycharm,phpstorm,eclipse,atom,notion,md,ps,ai,xd,figma,anaconda&perline=15)](https://skillicons.dev)  
 - skill-aiconsにアイコンがなかった技術はテキストで下記に記載
   - [react-native](https://reactnative.dev/)
-
-## 📚 現在取り組んでいること
-- skill-aiconsにアイコンがなかった技術はテキストで下記に記載
   - llm（[ollama](https://ollama.com/)/無料 × local など）
   - etc..
 
