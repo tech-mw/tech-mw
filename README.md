@@ -49,20 +49,12 @@
        alt="3D Contributions (dark)" />
 </p>
 
----
-
-<!-- Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=tech-mw&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 <!-- Summary Cards -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tech-mw&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tech-mw&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tech-mw&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tech-mw&theme=gruvbox)
 
----
 ## 🛠 これまでの開発事例
 ### 事例01
 > Iot機器と連携させるSaas型のWebアプリケーション。フロントエンド、サーバーサイド、AWSインフラなどすべての領域において開発を担当した「ComiAI-混雑状況見える化システム」が令和3年度の会津産IT技術認定を受賞しました。
