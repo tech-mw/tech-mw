@@ -35,13 +35,6 @@
 
 
 ## 🏃‍♀️ 活動履歴
-<!-- GitHub Stats -->
-<p align="center">
-  <img alt="GitHub Stats" height="170px"
-       src="https://github-readme-stats.vercel.app/api?username=tech-mw&theme=vue-dark&show_icons=true" />
-  <img alt="Top Languages" height="170px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-mw&theme=vue-dark&layout=compact" />
-</p>
 <!-- 3D Contributions -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg"
